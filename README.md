@@ -15,4 +15,4 @@ In particular, if we know f1 and f2, but not f3, and we also know a convenient c
 
 n^k-(n-1)^k has degree k-1.  
 
-This is a C# program to recursively compute such coefficients.  It is very old (dating to my middle-school years) and likely extremely inefficient; you're probably better off rolling your own.  
+This is a C# program to recursively compute such coefficients.  It is very old (dating to my middle-school years; also I apparently later decided to recode bits of it in C++; what's up with that?) and likely extremely inefficient; you're probably better off rolling your own.  
